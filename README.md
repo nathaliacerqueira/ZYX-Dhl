@@ -2,13 +2,13 @@
 
 Sistema web para digitalização dos processos logísticos da ZYX.
 
-## Stack
+## Tecnologias
 
 - **Frontend**: Next.js 14 + TypeScript + Tailwind CSS
 - **Backend**: .NET 8 ASP.NET Core Web API
 - **Banco de dados**: SQLite (Entity Framework Core)
 
-## Como rodar
+## Como executar
 
 **Backend**
 ```bash
